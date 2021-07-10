@@ -12,5 +12,6 @@ class Hello
 		int wagePerHour = 20;
 		int fullDayHour = 8;
 		int dailyWage = 0;
+		System.out.println("one branch master file added");
 	}
 }
