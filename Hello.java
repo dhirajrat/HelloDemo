@@ -13,5 +13,6 @@ class Hello
 		int fullDayHour = 8;
 		int dailyWage = 0;
 		System.out.println("one branch master file added");
+		System.out.println("hello UC3");
 	}
 }
